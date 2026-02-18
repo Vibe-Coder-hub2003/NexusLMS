@@ -1,0 +1,5 @@
+{
+  "name": "NexusLMS",
+  "description": "A comprehensive Learning Management System with role-based access, batch management, assignments, grading, and AI-powered feedback assistance.",
+  "requestFramePermissions": []
+}
